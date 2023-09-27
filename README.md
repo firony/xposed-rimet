@@ -28,20 +28,6 @@
 #### Software Communication Platform
 [https://t.me/s/fun_apk](https://t.me/s/fun_apk)
 
-##### MTPROTO公益TG代理发布频道
-[https://t.me/s/onessr](https://t.me/s/onessr)
-
-##### V2ray,Vmess节点免费发放🚀
-[https://t.me/s/V2List](https://t.me/s/V2List)
-
-##### Telegram 客户端中文汉化
-[tg://setlanguage?lang=zhcncc](tg://setlanguage?lang=zhcncc)
-
-![](./screenshot/device-2020-03-25-210922.jpg)
-![](./screenshot/device-2020-03-25-211336.jpg)
-
-
-
 ## 如何使用自己的高德key？
 (以下部分不支持`太极APP`，因为它的插件需要开发者上传并审核保持签名一致才行。所以如有需求请使用`应用转生`、`LSPatch`、`JSHOOK`等其他虚拟框架)
 
